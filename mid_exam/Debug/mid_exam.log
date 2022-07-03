@@ -1,0 +1,6 @@
+﻿  ex4.c
+C:\kwangwoon\KW\kw_4_1\Cprogramming\mid_exam\mid_exam\ex4.c(8,11): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\kwangwoon\KW\kw_4_1\Cprogramming\mid_exam\mid_exam\ex4.c(8,11): message : 서식 문자열에서 '%hhd'을(를) 사용하는 것이 좋습니다.
+C:\kwangwoon\KW\kw_4_1\Cprogramming\mid_exam\mid_exam\ex4.c(8,11): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+C:\kwangwoon\KW\kw_4_1\Cprogramming\mid_exam\mid_exam\ex4.c(8,11): message : 서식 문자열에서 '%hhd'을(를) 사용하는 것이 좋습니다.
+  mid_exam.vcxproj -> C:\kwangwoon\KW\kw_4_1\Cprogramming\mid_exam\Debug\mid_exam.exe
